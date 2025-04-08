@@ -20,7 +20,7 @@ AutoDL 云平台教程推荐：[开发人员如何微调大模型并暴露接口
 conda create -n FromScratch-Chinese-GPT python=3.10 -y
 conda activate FromScratch-Chinese-GPT
 
-# 安装 PyTorch + CUDA（适用于 RTX 系列，作者使用的是 RTX 3090）
+# 安装 PyTorch + CUDA（适用于 RTX 系列，测试使用的是 RTX 3090 ）
 conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
 
 # 安装其余依赖
