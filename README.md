@@ -4,9 +4,7 @@
 
 ## 项目演示
 
-<video src="v1.0/demo.mp4" controls width="600">
-  你的浏览器不支持播放这段视频。
-</video>
+[![点击观看演示视频]](v1.0/demo.mp4)
 
 ## 当前版本列表
 
