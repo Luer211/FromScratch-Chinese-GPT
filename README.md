@@ -4,7 +4,7 @@
 
 ## 项目演示
 
-[![点击观看项目演示](v1.0/demo_cover.png)](v1.0/demo.mp4)
+[![点击观看项目演示](v1.0/demo_cover.jpg)](v1.0/demo.mp4)
 
 ## 当前版本列表
 
