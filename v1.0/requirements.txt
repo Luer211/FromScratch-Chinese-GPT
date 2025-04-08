@@ -1,0 +1,7 @@
+gradio>=4.0.0
+numpy
+tqdm
+json5
+joblib
+matplotlib
+pandas
