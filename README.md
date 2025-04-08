@@ -4,7 +4,7 @@
 
 ## 项目演示
 
-<video src="v1.0/media/demo.mp4" controls width="600">
+<video src="v1.0/demo.mp4" controls width="600">
   你的浏览器不支持播放这段视频。
 </video>
 
