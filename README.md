@@ -4,7 +4,7 @@
 
 ## 项目演示（demo）
 
-[点击观看](v1.0/demo.mp4)  
+[点击观看（B站链接）](https://www.bilibili.com/video/BV1a3dpYFE3P/?spm_id_from=333.1387.upload.video_card.click&vd_source=2f1cd124dba46f7de06932bead1d0d49)  
 
 ## 演示示例图
 
