@@ -1,6 +1,7 @@
 # FromScratch-Chinese-GPT v1.0
 
-> 一个轻量级中文 GPT 框架，内置可视化调参的 Gradio 界面，支持一站式训练与文本生成。  
+> 一个轻量级中文 GPT 框架，内置可视化调参的 Gradio 界面，支持一站式训练与文本生成。
+
 &nbsp;
 
 ## 特性
